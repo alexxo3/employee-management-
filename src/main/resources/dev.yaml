@@ -1,0 +1,5 @@
+soap:
+  wsdl: "http://34.86.136.216:6061/ws/employees.wsdl"
+  service: "EmployeePortService"
+  port: "EmployeePortSoap11"
+  address: "http://34.86.136.216:6061/ws"
